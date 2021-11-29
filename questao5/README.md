@@ -22,7 +22,11 @@ Front-end:
  O front do projeto não foi finalizado, porém o back-end pode ser testado utilizando uma ferramenta cliente de API REST, 
  como por exemplo Insomnia o qual utilizei para o teste.
  Para testar as pesquisas, informar no parametro q os seguintes valores:
-	-localhost:8080/veiculos/find?q=vendidos
-	-localhost:8080/veiculos/find?q=fabricante
-	-localhost:8080/veiculos/find?q=decada
-	-localhost:8080/veiculos/find?q=semana
+ 
+	- localhost:8080/veiculos/find?q=vendidos
+	
+	- localhost:8080/veiculos/find?q=fabricante
+	
+	- localhost:8080/veiculos/find?q=decada
+	
+	- localhost:8080/veiculos/find?q=semana
