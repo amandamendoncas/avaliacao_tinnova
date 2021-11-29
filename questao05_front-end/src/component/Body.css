@@ -1,0 +1,10 @@
+
+.Body-style{
+    background-color: #6e99f7;
+    display: flex;
+    min-height: 50vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
